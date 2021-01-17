@@ -1,1 +1,1 @@
-# Netflix_Clone
+# Projeto de criação da página inicial da Netflix, utilizando HTML, CSS, Jquery
